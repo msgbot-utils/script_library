@@ -1,1 +1,22 @@
-{}
+{
+    "test": {
+        "version": [
+            0,
+            0,
+            1
+        ],
+        "available": false,
+        "download": null,
+        "patchnote": [
+            {
+                "version": [
+                    0,
+                    0,
+                    1
+                ],
+                "title": "테스트용 소스코드",
+                "desc": "응애 나는 밥오\n테스트용 설명"
+            }
+        ]
+    }
+}
