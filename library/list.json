@@ -5,8 +5,8 @@
             0,
             1
         ],
-        "available": false,
-        "download": null,
+        "available": true,
+        "download": "https://github.com/msgbot-utils/script_library/raw/main/library/test.zip",
         "patchnote": [
             {
                 "version": [
